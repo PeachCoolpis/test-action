@@ -8,5 +8,6 @@ jobs:
       - name: step1
         run: |
           echo test1
-      - name: |
+      - name: stp2
+        run: |
           echo test2
